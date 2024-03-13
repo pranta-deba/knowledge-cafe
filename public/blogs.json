@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/NNhFzRK/blogging-gone-viral-camera-concept.jpg",
+      "title": "The Secret Garden",
+      "author_name": "Jane Doe",
+      "author_img": "https://i.ibb.co/yhYbNfT/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 15,
+      "hashtags": ["#fiction", "#classics", "#gardening"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.ibb.co/HX7HQry/blog.jpg",
+      "title": "Galactic Adventures",
+      "author_name": "John Smith",
+      "author_img": "https://i.ibb.co/TBNRwqM/thoughtful-businessman-sitting-office-desk-writing-trying-think-up-idea-squinting-as-pondering-new-c.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 30,
+      "hashtags": ["#scifi", "#space", "#adventure"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.ibb.co/tD1rfmN/lily-valley-bouquet-with-alarm-clock-eyeglasses-laptop-blue-office-desk.jpg",
+      "title": "Culinary Delights",
+      "author_name": "Lisa Johnson",
+      "author_img": "https://i.ibb.co/k8SvTDM/puzzled-indecisive-troublesome-college-student-frowns-face-displeasure-holds-pencil-near-mouth-red-d.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 20,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/n7KjHsH/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+      "title": "The Mystery of Oakwood Manor",
+      "author_name": "Michael Davis",
+      "author_img": "https://i.ibb.co/C58xwNQ/serious-readhead-bearded-man-white-tshirt-holding-folder-pen.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 25,
+      "hashtags": ["#mystery", "#detective", "#suspense"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/GCrcy2M/minimalistic-black-background-with-laptop-notepad-office-plants-top-view.jpg",
+      "title": "Beyond the Horizon",
+      "author_name": "Sarah Jones",
+      "author_img": "https://i.ibb.co/BfTcxnS/portrait-concentrated-redhead-man-writing-notebook.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 40,
+      "hashtags": ["#adventure", "#exploration", "#nature"]
+    }
+  ]
+  
